@@ -1,0 +1,216 @@
+19-05-21 23:06:10,973 [main] INFO  mu.nu.nullpo.gui.slick.NullpoMinoSlick: NullpoMinoSlick Start
+19-05-21 23:06:11,001 [main] INFO  mu.nu.nullpo.gui.slick.NullpoMinoSlick: Driver adapter:aticfx64, Driver version:8.17.10.1653
+19-05-21 23:06:11,118 [main] INFO  Slick: Slick Build #229
+19-05-21 23:06:11,119 [main] INFO  Slick: LWJGL Version: 2.6
+19-05-21 23:06:11,119 [main] INFO  Slick: OriginalDisplayMode: 1440 x 900 x 32 @60Hz
+19-05-21 23:06:11,119 [main] INFO  Slick: TargetDisplayMode: 1280 x 960 x 0 @0Hz
+19-05-21 23:06:11,401 [main] INFO  Slick: Starting display 1280x960
+19-05-21 23:06:11,414 [main] INFO  Slick: Use Java PNG Loader = true
+19-05-21 23:06:11,568 [main] INFO  Slick: Found 6 controllers
+19-05-21 23:06:11,569 [main] INFO  Slick: 0 : Gaming Mouse G502
+19-05-21 23:06:11,569 [main] INFO  Slick: 1 : Gaming Mouse G502
+19-05-21 23:06:11,569 [main] INFO  Slick: 2 : Razer BlackWidow Ultimate
+19-05-21 23:06:11,569 [main] INFO  Slick: 3 : Razer BlackWidow Ultimate
+19-05-21 23:06:11,569 [main] INFO  Slick: 4 : HID-compliant consumer control device
+19-05-21 23:06:11,569 [main] INFO  Slick: 5 : HID-compliant system controller
+19-05-21 23:06:11,632 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: (top-level).MARATHON
+19-05-21 23:06:11,632 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: (top-level).LINE RACE
+19-05-21 23:06:11,633 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: (top-level).DIG RACE
+19-05-21 23:06:11,633 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: (top-level).DIG CHALLENGE
+19-05-21 23:06:11,633 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: (top-level).ULTRA
+19-05-21 23:06:11,633 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: (top-level).GRADE MANIA 3
+19-05-21 23:06:11,633 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: (top-level).SPEED MANIA 2
+19-05-21 23:06:11,633 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: (top-level).PRACTICE
+19-05-21 23:06:11,633 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: (top-level).GEM MANIA
+19-05-21 23:06:11,633 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: (top-level).VS-BATTLE
+19-05-21 23:06:11,634 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: STANDARD MODES.MARATHON
+19-05-21 23:06:11,634 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: STANDARD MODES.MARATHON+
+19-05-21 23:06:11,634 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: STANDARD MODES.EXTREME
+19-05-21 23:06:11,634 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: STANDARD MODES.TECHNICIAN
+19-05-21 23:06:11,634 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: RACE MODES.LINE RACE
+19-05-21 23:06:11,634 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: RACE MODES.SCORE RACE
+19-05-21 23:06:11,634 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: RACE MODES.DIG RACE
+19-05-21 23:06:11,635 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: RACE MODES.COMBO RACE
+19-05-21 23:06:11,635 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: RACE MODES.ULTRA
+19-05-21 23:06:11,635 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.GRADE MANIA
+19-05-21 23:06:11,635 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.GRADE MANIA 2
+19-05-21 23:06:11,635 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.GRADE MANIA 3
+19-05-21 23:06:11,635 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.SCORE ATTACK
+19-05-21 23:06:11,635 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.SPEED MANIA
+19-05-21 23:06:11,635 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.SPEED MANIA 2
+19-05-21 23:06:11,635 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.GARBAGE MANIA
+19-05-21 23:06:11,636 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.PHANTOM MANIA
+19-05-21 23:06:11,636 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.FINAL
+19-05-21 23:06:11,636 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.TIME ATTACK
+19-05-21 23:06:11,636 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MANIA MODES.GEM MANIA
+19-05-21 23:06:11,636 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: RETRO MODES.RETRO MARATHON
+19-05-21 23:06:11,636 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: RETRO MODES.RETRO MASTERY
+19-05-21 23:06:11,636 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: RETRO MODES.RETRO MANIA
+19-05-21 23:06:11,637 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MISC MODES.SQUARE
+19-05-21 23:06:11,637 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MISC MODES.DIG CHALLENGE
+19-05-21 23:06:11,637 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MISC MODES.VS-BATTLE
+19-05-21 23:06:11,637 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: MISC MODES.TOOL-VS MAP EDIT
+19-05-21 23:06:11,637 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: AVALANCHE.AVALANCHE 1P (RC2)
+19-05-21 23:06:11,637 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: AVALANCHE.AVALANCHE 1P FEVER MARATHON (RC2)
+19-05-21 23:06:11,637 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: AVALANCHE.AVALANCHE VS-BATTLE (RC1)
+19-05-21 23:06:11,637 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: AVALANCHE.AVALANCHE VS FEVER MARATHON (RC1)
+19-05-21 23:06:11,638 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: AVALANCHE.AVALANCHE VS DIG RACE (RC1)
+19-05-21 23:06:11,638 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: AVALANCHE.AVALANCHE VS BOMB BATTLE (RC1)
+19-05-21 23:06:11,638 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: AVALANCHE.AVALANCHE-SPF VS-BATTLE (BETA)
+19-05-21 23:06:11,638 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: PHYSICIAN.PHYSICIAN (RC1)
+19-05-21 23:06:11,638 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: PHYSICIAN.PHYSICIAN VS-BATTLE (RC1)
+19-05-21 23:06:11,638 [main] DEBUG mu.nu.nullpo.gui.slick.StateSelectModeFolder: SPF.SPF VS-BATTLE (BETA)
+19-05-21 23:06:11,641 [main] INFO  mu.nu.nullpo.gui.slick.ControllerManager: Found 6 controllers from NullpoMinoSlick app
+19-05-21 23:06:11,641 [main] DEBUG mu.nu.nullpo.gui.slick.ControllerManager: ID:0, AxisCount:0, ButtonCount:31
+19-05-21 23:06:11,641 [main] DEBUG mu.nu.nullpo.gui.slick.ControllerManager: ID:1, AxisCount:0, ButtonCount:3
+19-05-21 23:06:11,641 [main] DEBUG mu.nu.nullpo.gui.slick.ControllerManager: ID:2, AxisCount:0, ButtonCount:31
+19-05-21 23:06:11,641 [main] DEBUG mu.nu.nullpo.gui.slick.ControllerManager: ID:3, AxisCount:0, ButtonCount:3
+19-05-21 23:06:11,641 [main] DEBUG mu.nu.nullpo.gui.slick.ControllerManager: ID:4, AxisCount:0, ButtonCount:31
+19-05-21 23:06:11,642 [main] DEBUG mu.nu.nullpo.gui.slick.ControllerManager: ID:5, AxisCount:0, ButtonCount:3
+19-05-21 23:06:11,645 [main] INFO  mu.nu.nullpo.gui.slick.ResourceHolder: Loading Image
+19-05-21 23:06:11,646 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: 29 block skins found
+19-05-21 23:06:11,646 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n0.png
+19-05-21 23:06:11,650 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s0.png
+19-05-21 23:06:11,651 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b0.png
+19-05-21 23:06:11,654 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n1.png
+19-05-21 23:06:11,655 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s1.png
+19-05-21 23:06:11,656 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b1.png
+19-05-21 23:06:11,658 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n2.png
+19-05-21 23:06:11,660 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s2.png
+19-05-21 23:06:11,660 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b2.png
+19-05-21 23:06:11,662 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n3.png
+19-05-21 23:06:11,662 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s3.png
+19-05-21 23:06:11,663 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b3.png
+19-05-21 23:06:11,664 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n4.png
+19-05-21 23:06:11,665 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s4.png
+19-05-21 23:06:11,666 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b4.png
+19-05-21 23:06:11,667 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n5.png
+19-05-21 23:06:11,668 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s5.png
+19-05-21 23:06:11,669 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b5.png
+19-05-21 23:06:11,670 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n6.png
+19-05-21 23:06:11,671 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s6.png
+19-05-21 23:06:11,671 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b6.png
+19-05-21 23:06:11,673 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n7.png
+19-05-21 23:06:11,673 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s7.png
+19-05-21 23:06:11,674 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b7.png
+19-05-21 23:06:11,675 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n8.png
+19-05-21 23:06:11,676 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s8.png
+19-05-21 23:06:11,677 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b8.png
+19-05-21 23:06:11,678 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n9.png
+19-05-21 23:06:11,681 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s9.png
+19-05-21 23:06:11,682 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b9.png
+19-05-21 23:06:11,691 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n10.png
+19-05-21 23:06:11,692 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s10.png
+19-05-21 23:06:11,692 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b10.png
+19-05-21 23:06:11,694 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n11.png
+19-05-21 23:06:11,694 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s11.png
+19-05-21 23:06:11,695 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b11.png
+19-05-21 23:06:11,696 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n12.png
+19-05-21 23:06:11,697 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s12.png
+19-05-21 23:06:11,697 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b12.png
+19-05-21 23:06:11,699 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n13.png
+19-05-21 23:06:11,699 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s13.png
+19-05-21 23:06:11,700 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b13.png
+19-05-21 23:06:11,701 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n14.png
+19-05-21 23:06:11,702 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s14.png
+19-05-21 23:06:11,703 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b14.png
+19-05-21 23:06:11,704 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n15.png
+19-05-21 23:06:11,704 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s15.png
+19-05-21 23:06:11,705 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b15.png
+19-05-21 23:06:11,706 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n16.png
+19-05-21 23:06:11,707 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s16.png
+19-05-21 23:06:11,707 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b16.png
+19-05-21 23:06:11,708 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n17.png
+19-05-21 23:06:11,709 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s17.png
+19-05-21 23:06:11,710 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b17.png
+19-05-21 23:06:11,711 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n18.png
+19-05-21 23:06:11,712 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s18.png
+19-05-21 23:06:11,713 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b18.png
+19-05-21 23:06:11,715 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n19.png
+19-05-21 23:06:11,715 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s19.png
+19-05-21 23:06:11,716 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b19.png
+19-05-21 23:06:11,717 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n20.png
+19-05-21 23:06:11,718 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s20.png
+19-05-21 23:06:11,718 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b20.png
+19-05-21 23:06:11,720 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n21.png
+19-05-21 23:06:11,721 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s21.png
+19-05-21 23:06:11,721 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b21.png
+19-05-21 23:06:11,722 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n22.png
+19-05-21 23:06:11,725 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s22.png
+19-05-21 23:06:11,726 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b22.png
+19-05-21 23:06:11,729 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n23.png
+19-05-21 23:06:11,730 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s23.png
+19-05-21 23:06:11,730 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b23.png
+19-05-21 23:06:11,732 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n24.png
+19-05-21 23:06:11,733 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s24.png
+19-05-21 23:06:11,734 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b24.png
+19-05-21 23:06:11,736 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n25.png
+19-05-21 23:06:11,737 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s25.png
+19-05-21 23:06:11,738 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b25.png
+19-05-21 23:06:11,739 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n26.png
+19-05-21 23:06:11,740 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s26.png
+19-05-21 23:06:11,741 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b26.png
+19-05-21 23:06:11,742 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n27.png
+19-05-21 23:06:11,745 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s27.png
+19-05-21 23:06:11,747 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b27.png
+19-05-21 23:06:11,756 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/normal/n28.png
+19-05-21 23:06:11,758 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/small/s28.png
+19-05-21 23:06:11,759 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/blockskin/big/b28.png
+19-05-21 23:06:11,768 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/font.png
+19-05-21 23:06:11,794 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/font_small.png
+19-05-21 23:06:11,795 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/title.png
+19-05-21 23:06:11,811 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/menu.png
+19-05-21 23:06:11,815 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/frame.png
+19-05-21 23:06:11,816 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/fieldbg2.png
+19-05-21 23:06:11,818 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/fieldbg2_small.png
+19-05-21 23:06:11,819 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/fieldbg2_big.png
+19-05-21 23:06:11,825 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break0_0.png
+19-05-21 23:06:11,830 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break0_1.png
+19-05-21 23:06:11,832 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break1_0.png
+19-05-21 23:06:11,837 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break1_1.png
+19-05-21 23:06:11,838 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break2_0.png
+19-05-21 23:06:11,843 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break2_1.png
+19-05-21 23:06:11,845 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break3_0.png
+19-05-21 23:06:11,850 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break3_1.png
+19-05-21 23:06:11,851 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break4_0.png
+19-05-21 23:06:11,856 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break4_1.png
+19-05-21 23:06:11,858 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break5_0.png
+19-05-21 23:06:11,863 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break5_1.png
+19-05-21 23:06:11,864 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break6_0.png
+19-05-21 23:06:11,869 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break6_1.png
+19-05-21 23:06:11,871 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break7_0.png
+19-05-21 23:06:11,876 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/break7_1.png
+19-05-21 23:06:11,877 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/perase0.png
+19-05-21 23:06:11,879 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/perase1.png
+19-05-21 23:06:11,881 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/perase2.png
+19-05-21 23:06:11,883 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/perase3.png
+19-05-21 23:06:11,884 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/perase4.png
+19-05-21 23:06:11,886 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/perase5.png
+19-05-21 23:06:11,887 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/perase6.png
+19-05-21 23:06:11,889 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back0.png
+19-05-21 23:06:11,904 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back1.png
+19-05-21 23:06:11,915 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back2.png
+19-05-21 23:06:11,926 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back3.png
+19-05-21 23:06:11,938 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back4.png
+19-05-21 23:06:11,951 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back5.png
+19-05-21 23:06:11,961 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back6.png
+19-05-21 23:06:11,972 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back7.png
+19-05-21 23:06:11,985 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back8.png
+19-05-21 23:06:11,997 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back9.png
+19-05-21 23:06:12,008 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back10.png
+19-05-21 23:06:12,025 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back11.png
+19-05-21 23:06:12,038 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back12.png
+19-05-21 23:06:12,053 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back13.png
+19-05-21 23:06:12,066 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back14.png
+19-05-21 23:06:12,081 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back15.png
+19-05-21 23:06:12,097 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back16.png
+19-05-21 23:06:12,110 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back17.png
+19-05-21 23:06:12,122 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back18.png
+19-05-21 23:06:12,133 [main] DEBUG mu.nu.nullpo.gui.slick.ResourceHolder: Loading image from res/graphics/back19.png
+19-05-21 23:06:12,496 [main] INFO  Slick: Initialising sounds..
+19-05-21 23:06:12,590 [main] INFO  Slick: - Sound works
+19-05-21 23:06:12,590 [main] INFO  Slick: - 64 OpenAL source available
+19-05-21 23:06:12,590 [main] INFO  Slick: - Sounds source generated
+19-05-21 23:06:12,590 [main] INFO  mu.nu.nullpo.gui.slick.ResourceHolder: Loading Sound Effect
+19-05-21 23:06:12,749 [main] DEBUG mu.nu.nullpo.gui.slick.NullpoMinoSlick: startObserverClient called
+19-05-21 23:06:12,888 [main] DEBUG mu.nu.nullpo.gui.slick.NullpoMinoSlick: stopObserverClient called
