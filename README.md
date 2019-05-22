@@ -1,4 +1,4 @@
-#Tetris avec les settings par defaut pour le lan
+# Tetris avec les settings par defaut pour le lan
 
 -------------------
 
