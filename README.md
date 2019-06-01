@@ -1,25 +1,25 @@
 # Tetris avec les settings par defaut pour le lan
 
-Min DAS: 5
+    Min DAS: 5
 
-Max DAS: 10
+    Max DAS: 10
 
-DAS delay: 5
+    DAS delay: 5
 
 
 # key bindings:
 
-move: arrow keys
+    move: arrow keys
 
-hard drop: space
+    hard drop: space
 
-soft drop: down arrow
+    soft drop: down arrow
 
-save: c
+    save: c
 
-rotate1: up arrow
+    rotate1: up arrow
 
-rotate2: shift
+    rotate2: shift
 
 On va vous permettre de changer vos settings, et on va tout reset entre chaque partie.
 
