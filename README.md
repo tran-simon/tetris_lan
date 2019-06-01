@@ -4,7 +4,7 @@ Min DAS: 5
 Max DAS: 10
 DAS delay: 5
 
-#key bindings:
+# key bindings:
 move: arrow keys
 hard drop: space
 soft drop: down arrow
@@ -15,7 +15,7 @@ rotate2: shift
 On va vous permettre de changer vos settings, et on va tout reset entre chaque partie.
 
 
--------------------
+---
 
 
 NullpoMino
