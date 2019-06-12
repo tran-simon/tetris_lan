@@ -1,6 +1,30 @@
-﻿#Tetris avec les settings par defaut pour le lan
+# Tetris avec les settings par defaut pour le lan
 
--------------------
+    Min DAS: 5
+
+    Max DAS: 10
+
+    DAS delay: 5
+
+
+# key bindings:
+
+    move: arrow keys
+
+    hard drop: space
+
+    soft drop: down arrow
+
+    save: c
+
+    rotate1: up arrow
+
+    rotate2: shift
+
+On va vous permettre de changer vos settings, et on va tout reset entre chaque partie.
+
+
+---
 
 
 NullpoMino
